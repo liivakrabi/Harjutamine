@@ -1,0 +1,16 @@
+Mis on GitHub?
+GitHub on veebileht, mis pakub veebimajutust tarkvaraarenduseks. 
+Siin sa saad lisada, eemaldada, jagada, kasutada ja palju muud tarkvara koodi
+
+Kes kasutavad GitHubbi?
+GitHubbi kasutavad enamasti tarkvaraarendajad, kes soovivad jagada turvaliselt koodi, töötada koos ühe projekti kallal
+versioonihaldusega ning olla kursis programeerimis maastikuga.
+
+Kuidas mina edaspidi kasutan GitHubbi?
+Plaanin edaspidi üleslaadides salvestada oma koduseid töid ning kasutada vajadusel
+teiste repositooriume enda isiklikeks huvideks.
+
+GitHubi ajalugu
+Mis aastal asutati? : GitHub asutati 2008. aastal.
+Kes asutasid GitHub Inc? : GitHub Inc asutasid Chris Wanstrath, Tom Preston-Werner ja PJ Hyett.
+Millal oli GitHubi teenus kättesaadav? : GitHubi teenus oli esimest korda kättesaadav 2008. aasta aprillis.
