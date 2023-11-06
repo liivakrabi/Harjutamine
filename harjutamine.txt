@@ -5,3 +5,7 @@ Siin sa saad lisada, eemaldada, jagada, kasutada ja palju muud tarkvara koodi
 Kes kasutavad GitHubbi?
 GitHubbi kasutavad enamasti tarkvaraarendajad, kes soovivad jagada turvaliselt koodi, töötada koos ühe projekti kallal
 versioonihaldusega ning olla kursis programeerimis maastikuga.
+
+Kuidas mina edaspidi kasutan GitHubbi?
+Plaanin edaspidi üleslaadides salvestada oma koduseid töid ning kasutada vajadusel
+teiste repositooriume enda isiklikeks huvideks.
