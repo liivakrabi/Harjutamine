@@ -9,3 +9,8 @@ versioonihaldusega ning olla kursis programeerimis maastikuga.
 Kuidas mina edaspidi kasutan GitHubbi?
 Plaanin edaspidi üleslaadides salvestada oma koduseid töid ning kasutada vajadusel
 teiste repositooriume enda isiklikeks huvideks.
+
+GitHubi ajalugu
+Mis aastal asutati? : GitHub asutati 2008. aastal.
+Kes asutasid GitHub Inc? : GitHub Inc asutasid Chris Wanstrath, Tom Preston-Werner ja PJ Hyett.
+Millal oli GitHubi teenus kättesaadav? : GitHubi teenus oli esimest korda kättesaadav 2008. aasta aprillis.
