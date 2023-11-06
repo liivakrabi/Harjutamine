@@ -1,0 +1,7 @@
+Mis on GitHub?
+GitHub on veebileht, mis pakub veebimajutust tarkvaraarenduseks. 
+Siin sa saad lisada, eemaldada, jagada, kasutada ja palju muud tarkvara koodi
+
+Kes kasutavad GitHubbi?
+GitHubbi kasutavad enamasti tarkvaraarendajad, kes soovivad jagada turvaliselt koodi, töötada koos ühe projekti kallal
+versioonihaldusega ning olla kursis programeerimis maastikuga.
